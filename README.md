@@ -2,7 +2,10 @@
 
 <img src="https://postcss.github.io/postcss/logo.svg" alt="PostCSS" width="90" height="90" align="right">
 
-<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" align="right"></a>
+[English](./README.en-US.md) | [简体中文](./README.md)
+
+<a href="https://www.npmjs.com/package/postcss-mobile-forever"><img src="https://img.shields.io/npm/v/postcss-mobile-forever?style=flat-square" alt="npm version"></a>
+<a href="https://www.npmjs.com/package/postcss-mobile-forever"><img src="https://img.shields.io/npm/dm/postcss-mobile-forever?style=flat-square" alt="npm downloads"></a>
 
 > **⚠️ Warning**
 >
